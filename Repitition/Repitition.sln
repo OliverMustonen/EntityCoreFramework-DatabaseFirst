@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlClientApp", "SqlClientApp\SqlClientApp.csproj", "{813EBF4C-3D57-4CFE-BEE7-DCBC009F01EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDapperApp", "SqlDapperApp\SqlDapperApp.csproj", "{8790171F-4F20-4FAD-9ED7-B893256D0FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813EBF4C-3D57-4CFE-BEE7-DCBC009F01EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813EBF4C-3D57-4CFE-BEE7-DCBC009F01EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813EBF4C-3D57-4CFE-BEE7-DCBC009F01EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813EBF4C-3D57-4CFE-BEE7-DCBC009F01EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8790171F-4F20-4FAD-9ED7-B893256D0FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8790171F-4F20-4FAD-9ED7-B893256D0FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8790171F-4F20-4FAD-9ED7-B893256D0FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8790171F-4F20-4FAD-9ED7-B893256D0FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08E336CB-4F0D-48EC-ACC0-ECD79F00A6AC}
+	EndGlobalSection
+EndGlobal
